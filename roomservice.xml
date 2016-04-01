@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="xenius9/android_device_lge_d838" path="device/lge/d838" remote="github" revision="cm-13.0" />
+  <project name="xenius9/android_device_lge_b1w-common" path="device/lge/b1w-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" />
+  <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" />
+<project name="xenius9/proprietary_vendor_lge_b1w" path="vendor/lge" remote="github" revision="cm-13.0" />
+
+</manifest>
